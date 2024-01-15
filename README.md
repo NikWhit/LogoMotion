@@ -40,5 +40,6 @@ shapes.test.js
 circle, square, triangle.js
 //10-OOP/01-Activities/08-Stu_Inheritance/README.md
 
-I had notes that I worked with Liz Hawkins and Eden Lewis months back. 
+I had notes that I worked with Liz Hawkins and Eden Lewis and Nate Tanner months back. While we were in our groups.
+
 
