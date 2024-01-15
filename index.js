@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const {Triangle, Circle, Square} = require('./libs/shapes');
+const {Triangle, Circle, Square} = require('./lib/shapes');
 inquirer.prompt([
     {
         type: 'list',
@@ -42,7 +42,7 @@ shape.setColor(objColor);
 let svg = 
 `<svg version="1.1" width="305" height="205" xmlns="http://www.w3.org/2000/svg">
 ${shape.render()}
-<text x="150" y="125" font-size="55" text-anchor="middle" fill="${this.letterColor}">${this.text}</text>      
+<text x="150" y="125" font-size="55" text-anchor="middle" fill="${letterColor}">${text}</text>      
 </svg>`;
 
 return fs.writeFile('logo.svg', svg, (err) => {
