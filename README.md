@@ -7,7 +7,14 @@ Create simple SVG logos, automated, and fast!
 
 
 ## Examples
+![Screenshot 2024-01-14 at 10 55 36 PM](https://github.com/NikWhit/LogoMaker10/assets/135679785/d4ca881e-4da2-4d41-8b8c-354639e84fd0)
+![Screenshot 2024-01-14 at 10 55 41 PM](https://github.com/NikWhit/LogoMaker10/assets/135679785/42baae0a-c9b1-4885-807f-9f371a79e805)
+![Screenshot 2024-01-14 at 10 55 46 PM](https://github.com/NikWhit/LogoMaker10/assets/135679785/25dc3f28-e987-4ea4-b965-8a51ef910da6)
 
+<img width="1312" alt="Screenshot 2024-01-14 at 10 56 11 PM" src="https://github.com/NikWhit/LogoMaker10/assets/135679785/7acc1bb9-29a6-42f1-bca5-368260b92aa2">
+
+
+https://drive.google.com/file/d/1MeLVRBlZepobmMgF9OzWOB3dLEx0KmEr/view
 
 ## Installation
 Run on Node.js
@@ -33,5 +40,6 @@ shapes.test.js
 circle, square, triangle.js
 //10-OOP/01-Activities/08-Stu_Inheritance/README.md
 
-I had notes that I worked with Liz Hawkins and Eden Lewis months back. 
+I had notes that I worked with Liz Hawkins and Eden Lewis and Nate Tanner months back. While we were in our groups.
+
 
